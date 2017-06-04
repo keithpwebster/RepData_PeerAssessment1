@@ -191,6 +191,7 @@ ggplot(MeanDataWeekendWeekday, aes(x = interval, y=steps, color=weekend)) +
 
 
 
+
   
 
 
